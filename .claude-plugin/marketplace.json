@@ -1,0 +1,18 @@
+{
+  "name": "ouviaj-quantum",
+  "owner": {
+    "name": "Ouviaj LLC",
+    "url": "https://ouviaj.com/"
+  },
+  "metadata": {
+    "description": "Reader tools for The Atlas of Quantum Science and Technology."
+  },
+  "plugins": [
+    {
+      "name": "quantum-book-companion",
+      "source": "./",
+      "description": "A reader's guide to The Atlas of Quantum Science and Technology, with progressive explanations, worked examples, and authoritative references.",
+      "version": "0.1.0"
+    }
+  ]
+}

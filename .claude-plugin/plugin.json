@@ -1,0 +1,12 @@
+{
+  "name": "quantum-book-companion",
+  "displayName": "Quantum Book Companion",
+  "version": "0.1.0",
+  "description": "A reader's guide to The Atlas of Quantum Science and Technology, with progressive explanations, worked examples, and authoritative references.",
+  "author": {
+    "name": "Ouviaj LLC",
+    "url": "https://ouviaj.com/"
+  },
+  "homepage": "https://ouviaj.com/the-atlas-of-quantum-science-and-technology/",
+  "license": "CC-BY-NC-ND-4.0"
+}

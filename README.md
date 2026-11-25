@@ -3,6 +3,21 @@
 
 A reader's guide to *The Atlas of Quantum Science and Technology* (Ouviaj LLC, 2026). Ask Claude about a quantum concept, experiment, device, algorithm or technology claim. The companion places the subject in the atlas's 80 topics and 13 parts, then explains it step by step: what it is, how it is used, a closer look with a worked example, and sources for further reading.
 
+## Install
+
+In Claude Code 2.1.275 or later:
+
+```
+/plugin install quantum-book-companion --marketplace bilgehanerman/taoqst-book-companion
+```
+
+Or from a shell:
+
+```
+claude plugin marketplace add bilgehanerman/taoqst-book-companion
+claude plugin install quantum-book-companion@ouviaj-quantum
+```
+
 ## Use
 
 After installing, ask a quantum question, or invoke the skill directly:
